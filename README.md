@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marcelo Makoto</h1>
 <h3 align="center">Developer from Brazil</h3>
 
+![Loop](https://media.giphy.com/media/RgzryV9nRCMHPVVXPV/giphy.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makoto-dev1&label=Profile%20views&color=0e75b6&style=flat" alt="makoto-dev1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=makoto-dev1" alt="makoto-dev1" /></a> </p>

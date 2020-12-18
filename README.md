@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcelo Makoto</h1>
 <h3 align="center">Developer from Brazil</h3>
 
-![Loop](https://media.giphy.com/media/RgzryV9nRCMHPVVXPV/giphy.gif)
+<div align="center">![Loop](https://media.giphy.com/media/RgzryV9nRCMHPVVXPV/giphy.gif)</div>
 
 
 

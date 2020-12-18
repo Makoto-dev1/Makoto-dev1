@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marcelo Makoto</h1>
 <h3 align="center">Developer from Brazil</h3>
-![Loop](https://media.giphy.com/media/RgzryV9nRCMHPVVXPV/giphy.gif)
-
-
+//![Loop](https://media.giphy.com/media/RgzryV9nRCMHPVVXPV/giphy.gif)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=makoto-dev1" alt="makoto-dev1" /></a> </p>
 

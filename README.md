@@ -7,7 +7,7 @@
 - 📫 How to reach me **On Discord, Mako7o#4636**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2 align="left">
 <a href="https://linkedin.com/in/marcelo-santos1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="marcelo makoto" height="30" width="40" /></a>
 </p>
 

@@ -13,7 +13,8 @@
 
 </p>
 
-<img height= "20"src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+![image]({https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+})
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=makoto-dev1&show_icons=true&locale=en&layout=compact" alt="makoto-dev1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=makoto-dev1&show_icons=true&locale=en" alt="makoto-dev1" /></p>

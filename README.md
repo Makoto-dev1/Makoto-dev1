@@ -22,9 +22,9 @@
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![image]()
-![image]()
-![image]()
+//![image]()
+//![image]()
+//![image]()
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=makoto-dev1&show_icons=true&locale=en&layout=compact" alt="makoto-dev1" /></p>
 

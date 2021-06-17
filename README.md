@@ -13,6 +13,8 @@
 
 </p>
 
+<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=makoto-dev1&show_icons=true&locale=en&layout=compact" alt="makoto-dev1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=makoto-dev1&show_icons=true&locale=en" alt="makoto-dev1" /></p>
